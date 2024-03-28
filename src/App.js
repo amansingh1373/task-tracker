@@ -1,9 +1,10 @@
 import './App.css';
+import DashBoard from './Pages/DashBoard.js';
 
 function App() {
   return (
     <>
-      <h1>Hello from React</h1>
+      <DashBoard />
     </>
   );
 }
